@@ -6,7 +6,7 @@
 >
 > HTML
 >
-> CSS
+> JavaScript
 
 > ## Como executar ⚙️
 > É necessário a instalação da extensão do VS Code [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
